@@ -1,0 +1,19 @@
+@media screen and (max-width:768px){
+    .nav ul .barsicon{
+        display: flex;
+    }
+    .menu{
+        display: flex;
+    }
+    .nav{
+        display: none;
+    }
+   .dots{
+       right: 45px;
+   }
+}
+@media screen and (max-width:425px){
+    .dream h1{
+        font-size: 50px;
+    }
+}  
